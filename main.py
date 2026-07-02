@@ -11,4 +11,4 @@ def start(message):
     bot.reply_to(message, "أهلاً بك في Danny_sh 🛍️")
 
 print("Bot is running...")
-bot.infinity_polling
+()bot.infinity_polling
